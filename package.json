@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~5.0.0"
+  },
+  "fitbit": {
+    "appUUID": "abc2f354-bc9e-4f82-8b3b-7c625a395b56",
+    "appType": "app",
+    "appDisplayName": "heartrate-bargraph",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "heartrate-bargraph"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

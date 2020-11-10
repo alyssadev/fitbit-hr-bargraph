@@ -1,0 +1,38 @@
+<svg id="root" width="100%" height="100%" fill="#000000">
+  <rect id="bar0" x="0" y="0" width="10" height="0" />
+  <rect id="bar1" x="10" y="0" width="10" height="0" />
+  <rect id="bar2" x="20" y="0" width="10" height="0" />
+  <rect id="bar3" x="30" y="0" width="10" height="0" />
+  <rect id="bar4" x="40" y="0" width="10" height="0" />
+  <rect id="bar5" x="50" y="0" width="10" height="0" />
+  <rect id="bar6" x="60" y="0" width="10" height="0" />
+  <rect id="bar7" x="70" y="0" width="10" height="0" />
+  <rect id="bar8" x="80" y="0" width="10" height="0" />
+  <rect id="bar9" x="90" y="0" width="10" height="0" />
+  <rect id="bar10" x="100" y="0" width="10" height="0" />
+  <rect id="bar11" x="110" y="0" width="10" height="0" />
+  <rect id="bar12" x="120" y="0" width="10" height="0" />
+  <rect id="bar13" x="130" y="0" width="10" height="0" />
+  <rect id="bar14" x="140" y="0" width="10" height="0" />
+  <rect id="bar15" x="150" y="0" width="10" height="0" />
+  <rect id="bar16" x="160" y="0" width="10" height="0" />
+  <rect id="bar17" x="170" y="0" width="10" height="0" />
+  <rect id="bar18" x="180" y="0" width="10" height="0" />
+  <rect id="bar19" x="190" y="0" width="10" height="0" />
+  <rect id="bar20" x="200" y="0" width="10" height="0" />
+  <rect id="bar21" x="210" y="0" width="10" height="0" />
+  <rect id="bar22" x="220" y="0" width="10" height="0" />
+  <rect id="bar23" x="230" y="0" width="10" height="0" />
+  <rect id="bar24" x="240" y="0" width="10" height="0" />
+  <rect id="bar25" x="250" y="0" width="10" height="0" />
+  <rect id="bar26" x="260" y="0" width="10" height="0" />
+  <rect id="bar27" x="270" y="0" width="10" height="0" />
+  <rect id="bar28" x="280" y="0" width="10" height="0" />
+  <rect id="bar29" x="290" y="0" width="10" height="0" />
+  <rect fill="#aaaaaa" id="line50" x="0" y="100%-100" width="100%" height="1" />
+  <rect fill="#aaaaaa" id="line75" x="0" y="100%-150" width="100%" height="1" />
+  <rect fill="#aaaaaa" id="line100" x="0" y="100%-200" width="100%" height="1" />
+  <rect fill="#aaaaaa" id="line125" x="0" y="100%-250" width="100%" height="1" />
+  <rect fill="#aaaaaa" id="line150" x="0" y="100%-300" width="100%" height="1" />
+  <text id="hrm-data" x="50%" y="100%-20" text-length="3" font-size="20" text-anchor="middle" fill="#ffffff" />
+</svg>
